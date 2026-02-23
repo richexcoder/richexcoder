@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25476175/README.md)
 <h1 align="center">Hi 👋, I'm Richard Akinola</h1>
 <h3 align="center">A passionate Junior developer from Nigeria</h3>
 

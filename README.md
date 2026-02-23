@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Richard Akinola</h1>
+
+[Upl<h1 align="center">Hi 👋, I'm Richard Akinola</h1>
 <h3 align="center">A passionate Junior developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **Computer Vision.**
@@ -6,6 +7,8 @@
 - 💬 Ask me about **Python, Opencv, HTML, CSS, Javascript, Pytorch, Tensorflow**
 
 - 📫 How to reach me **richardakinola9@gmail.com**
+
+- 💞️ I’m looking to collaborate on any project using Python, OpenCv, MySQL, and computer Vision.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,3 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richexcoder&" alt="richexcoder" /></p>
 
+oading README (1).md…]()

@@ -1,5 +1,4 @@
-
-[Upl<h1 align="center">Hi 👋, I'm Richard Akinola</h1>
+<h1 align="center">Hi 👋, I'm Richard Akinola</h1>
 <h3 align="center">A passionate Junior developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **Computer Vision.**
